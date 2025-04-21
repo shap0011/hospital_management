@@ -6,7 +6,11 @@ This repository contains Power BI dashboards designed to provide insights into h
 
 The `.pbix` file(s) in this repo includes interactive visuals and KPIs related to:
 
-- Patient Appoitment Trends & Access Insights 
+- Patient Appoitment Trends & Access Insights
+  <p align="center">
+  <img src="screenshots/patient-appoitment-trends.png" alt="Dashboard Preview" width="600"/>
+  </p>
+
 - Patient Prescription Insights & Financial Overview Dashboard
 - Medicine Stock & Supplier Perfomance Dashboard
 - Patient Stay & Facility Assignment Process 
