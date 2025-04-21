@@ -10,11 +10,22 @@ The `.pbix` file(s) in this repo includes interactive visuals and KPIs related t
   <p align="center">
   <img src="screenshots/patient-appoitment-trends.png" alt="Dashboard Preview" width="600"/>
   </p>
-
 - Patient Prescription Insights & Financial Overview Dashboard
-- Medicine Stock & Supplier Perfomance Dashboard
-- Patient Stay & Facility Assignment Process 
+  <p align="center">
+  <img src="screenshots/patient-prescription-insights.png" alt="Dashboard Preview" width="600"/>
+  </p>
+- Medicine Stock & Supplier Performance Dashboard
+  <p align="center">
+  <img src="screenshots/medicine-stock-and-supplier-perfomance.png" alt="Dashboard Preview" width="600"/>
+  </p>
+- Patient Stay & Facility Assignment Process
+  <p align="center">
+  <img src="screenshots/patient-stay-and-facility-assignment-process.png" alt="Dashboard Preview" width="600"/>
+  </p>
 - Staff Salary Dashboard
+  <p align="center">
+  <img src="screenshots/staff-salary.png" alt="Dashboard Preview" width="600"/>
+  </p>
 
 ## 📁 Files Included
 
