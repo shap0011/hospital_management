@@ -51,6 +51,8 @@ The `.pbix` file(s) in this repo includes interactive visuals and KPIs related t
 ## 📬 Contact
 
 If you have questions or suggestions, feel free to [open an issue](https://github.com/shap0011/hospital-management/issues.txt) or reach out!
+If you have questions or suggestions, feel free to [open an issue](https://github.com/shap0011/hospital-management/issues.txt) or reach out!
+If you have questions or suggestions, feel free to [open an issue](issues.txt) or reach out!
 
 ---
 
